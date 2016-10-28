@@ -1,7 +1,7 @@
 //
 //  SpiralPrintBinaryTree.swift
 //
-//  Spiral print a binarry tree.
+//  Spiral print a binary tree.
 //
 //  Use two stacks to keep track of two consecutive levels of a tree
 //  and each inputting elements in the different order than
